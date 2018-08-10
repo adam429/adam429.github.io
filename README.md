@@ -2,15 +2,12 @@
 
 ## About Me
 
-Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, he was the first few pioneer employee in Uber China to build the local operation practice. He had 10+ work experience in Internet sector and Banking Industry。He graduated from Tsinghua University School of Economy and Management. His research interests are mainly focused on the tokenized incentive mechanism design and its implications to existing Internet platforms. 
+Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, he was the first few pioneer employee in Uber China to build the local operation practice. He had 10+ work experience in Internet sector and Banking Industry. He graduated from Tsinghua University School of Economy and Management. His research interests are mainly focused on the tokenized incentive mechanism design and its implications to existing Internet platforms. 
 
-[LinkedIn Page](https://www.linkedin.com/in/bo-li-adam429/)
 
 ## Paper Reading
 
-### DAG
-
-* Scaling Nakamoto Consensus to Thousands of Transactions per Second [arxiv](https://arxiv.org/abs/1805.03870)
+* [DAG] Scaling Nakamoto Consensus to Thousands of Transactions per Second [arxiv](https://arxiv.org/abs/1805.03870)
 
 
 ## Books
@@ -27,4 +24,5 @@ Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, 
 
 ## Contact Me
 
+* [LinkedIn](https://www.linkedin.com/in/bo-li-adam429/)
 * Email: Adam429.Lee dot gmail dot com
