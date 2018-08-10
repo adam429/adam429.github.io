@@ -26,5 +26,5 @@ Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, 
 
 ## Contact Me
 
-* [LinkedIn](https://www.linkedin.com/in/bo-li-adam429/)
+* LinkedIn: [Adam429](https://www.linkedin.com/in/bo-li-adam429/)
 * Email: Adam429.Lee dot gmail dot com
