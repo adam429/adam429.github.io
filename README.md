@@ -1,6 +1,3 @@
-title: Adam429 BlockChain Resources
-description: Repository for Blockchain related topics
-
 ## About Me
 
 ![Profile](img/profile.jpg)
