@@ -1,4 +1,5 @@
-# Adam429 BlockChain Resources
+title: Adam429 BlockChain Resources
+description: Repository for Blockchain related topics
 
 ## About Me
 
@@ -9,14 +10,13 @@ Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, 
 
 ## Paper Reading
 
+* [BitCoin] Bitcoins Academic Pedigree [link](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext)
 * [DAG] Scaling Nakamoto Consensus to Thousands of Transactions per Second [arxiv](https://arxiv.org/abs/1805.03870)
-
 
 ## Books
 
 * [Blockchain] Bitcoin and Cryptocurrency Technologies [pdf](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) 
 * [Cryptography] A Graduate Course in Applied Cryptography [pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
-
 
 ## Tutorial
 
