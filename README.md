@@ -2,6 +2,8 @@
 
 ## About Me
 
+![Profile](img/profile.jpg)
+
 Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, he was the first few pioneer employee in Uber China to build the local operation practice. He had 10+ work experience in Internet sector and Banking Industry. He graduated from Tsinghua University School of Economy and Management. His research interests are mainly focused on the tokenized incentive mechanism design and its implications to existing Internet platforms. 
 
 
