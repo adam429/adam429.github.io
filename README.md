@@ -7,7 +7,7 @@ Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, 
 
 ## Paper Reading
 
-* [BitCoin] Bitcoins Academic Pedigree [link](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext)
+* [BitCoin] Bitcoins Academic Pedigree (CACM 2017) [link](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext)
 * [DAG] Scaling Nakamoto Consensus to Thousands of Transactions per Second [arxiv](https://arxiv.org/abs/1805.03870)
 
 ## Books
@@ -17,9 +17,16 @@ Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, 
 
 ## Tutorial
 
-* [Blockchain] Let's build a blockchain! - A mini-cryptocurrency in Ruby [link](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)
+* [Blockchain] Let's build a blockchain! - A mini-cryptocurrency in Ruby [github](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)
 * [Smart Contract] CryptoZombies - An interactive code school for smart contracts in Solidity [link](https://cryptozombies.io/)
 
+## Developer Tools
+
+* [Git] Learn Git branching [link](https://learngitbranching.js.org/)
+
+## Others
+
+* [Legal] SAFT(Simple Agreement for Future Token) template [github](https://github.com/saft-project/saft)
 
 ## Contact Me
 
