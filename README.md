@@ -9,6 +9,8 @@ Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, 
 
 * [BitCoin] Bitcoins Academic Pedigree (CACM 2017) [link](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext)
 * [DAG] Scaling Nakamoto Consensus to Thousands of Transactions per Second [arxiv](https://arxiv.org/abs/1805.03870)
+* [Location] Location Privacy via Private Proximity Testing [pdf](http://crypto.stanford.edu/~dabo/papers/locpriv.pdf)
+
 
 ## Books
 
