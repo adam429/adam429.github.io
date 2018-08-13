@@ -14,13 +14,14 @@ Adam429, Senior Management of Sharing Economy Unicorn Company. Start from 2014, 
 
 ## Books
 
-* [Blockchain] Bitcoin and Cryptocurrency Technologies [pdf](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) 
+* [Blockchain] Bitcoin and Cryptocurrency Technologies [pdf](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) [coursera](https://www.coursera.org/learn/cryptocurrency/)
 * [Cryptography] A Graduate Course in Applied Cryptography [pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 
 ## Tutorial
 
 * [Blockchain] Let's build a blockchain! - A mini-cryptocurrency in Ruby [github](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)
 * [Smart Contract] CryptoZombies - An interactive code school for smart contracts in Solidity [link](https://cryptozombies.io/)
+
 
 ## Developer Tools
 
